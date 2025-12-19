@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Backend Developer apaixonado por criar soluções escaláveis e bem arquitetadas. Recém-formado em **Técnico de Desenvolvimento  de Software pelo SENAI**, com experiência em desenvolvimento backend utilizando boas práticas de engenharia de software como **DDD** e **Clean Architecture**.
+Backend Developer apaixonado por criar soluções escaláveis e bem arquitetadas. Recém-formado em **Técnico de Desenvolvimento de Software pelo SENAI**, com experiência em desenvolvimento backend utilizando boas práticas de engenharia de software como **DDD** e **Clean Architecture**.
 
 🎯 Atualmente buscando oportunidades como **Backend Jr** ou **Full Stack**  
 🎓 Iniciarei bacharelado em **Ciências da Computação** em 2026  
@@ -23,6 +23,7 @@ Backend Developer apaixonado por criar soluções escaláveis e bem arquitetadas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Frontend
@@ -52,6 +53,7 @@ Trabalho de Conclusão de Curso (TCC) desenvolvido no SENAI, aplicando conceitos
 - Domain-Driven Design (DDD) e Clean Architecture
 - Integração com dispositivos IoT (ESP32)
 - Angular para interface web interativa
+- MySql como banco de dados e gerenciamento de dados
 
 **✨ Principais features:**
 - 📊 Monitoramento em tempo real de dados vitais
