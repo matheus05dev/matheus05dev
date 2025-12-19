@@ -88,7 +88,7 @@ public class MatheusNunes {
     
     public void introduce() {
         System.out.println("💼 Buscando oportunidades como Backend Jr/Full Stack");
-        System.out.println("🎓 Formado em Técnico de Informática - SENAI");
+        System.out.println("🎓 Formado em Técnico de Desenvolvimento de Software - SENAI");
         System.out.println("🚀 Apaixonado por código limpo e arquitetura escalável");
     }
 }
