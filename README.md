@@ -11,7 +11,7 @@
 Backend Developer apaixonado por criar soluções escaláveis e bem arquitetadas. Recém-formado em **Técnico de Informática pelo SENAI**, com experiência em desenvolvimento backend utilizando boas práticas de engenharia de software como **DDD** e **Clean Architecture**.
 
 🎯 Atualmente buscando oportunidades como **Backend Jr** ou **Full Stack**  
-🎓 Iniciarei bacharelado em **Tecnologia da Informação** em 2026  
+🎓 Iniciarei bacharelado em **Ciências da Computação** em 2026  
 🌱 Explorando desenvolvimento web e futuramente **Inteligência Artificial**  
 📍 Alumínio-SP, Brasil
 
