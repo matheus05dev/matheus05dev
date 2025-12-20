@@ -114,6 +114,4 @@ public class MatheusNunes {
 
 ### 💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=matheus05dev&color=blue&style=flat-square)
-
 </div>
