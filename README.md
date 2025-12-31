@@ -78,24 +78,6 @@ Trabalho de Conclusão de Curso (TCC) desenvolvido no SENAI, aplicando conceitos
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=matheus05dev&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=false"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus05dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=InfraMed-IoT,InfraMed-Simulador-de-IoT"
-  height="160"
-/>
-
-</div>
-
----
-
 ## 🎯 Foco Atual
 
 ```java
