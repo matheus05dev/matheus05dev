@@ -61,19 +61,36 @@ Trabalho de Conclusão de Curso (TCC) desenvolvido no SENAI, aplicando conceitos
 - 🔌 Integração com sensores IoT
 - 📈 Histórico e análise de dados
 
-[📂 Ver projeto →](https://github.com/matheus05dev/BackendMonitoramentoPacientes)
+
+**📂 Ver projeto:**
+
+- **Backend (API – Spring Boot)**  
+  https://github.com/matheus05dev/InfraMed-Back-End
+
+- **Frontend (Angular)**  
+  https://github.com/matheus05dev/InfraMed-Front-End
+
+- **IoT (ESP32 e C++)**  
+  https://github.com/matheus05dev/InfraMed-IoT
+
+- **Simulador de IoT (Python)**  
+  https://github.com/matheus05dev/InfraMed-Simulador-de-IoT
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus05dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus05dev&layout=compact&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=matheus05dev&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=false"
+  height="160"
+/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheus05dev&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus05dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=InfraMed-IoT,InfraMed-Simulador-de-IoT"
+  height="160"
+/>
 
 </div>
 
