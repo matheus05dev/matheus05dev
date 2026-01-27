@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Backend Developer apaixonado por criar soluções escaláveis e bem arquitetadas. Recém-formado em **Técnico de Desenvolvimento de Software pelo SENAI**, com experiência em desenvolvimento backend utilizando boas práticas de engenharia de software como **DDD** e **Clean Architecture**.
+Backend Developer apaixonado por criar soluções escaláveis e bem arquitetadas. Recém-formado em **Técnico de Desenvolvimento de Sistemas pelo SENAI**, com experiência em desenvolvimento backend utilizando boas práticas de engenharia de software como **DDD** e **Clean Architecture**.
 
 🎯 Atualmente buscando oportunidades como **Backend Jr** ou **Full Stack**  
 🎓 Iniciarei bacharelado em **Ciências da Computação** em 2026  
