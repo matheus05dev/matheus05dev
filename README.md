@@ -100,7 +100,7 @@ Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus05dev&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=matheus05dev&theme=tokyonight" alt="Top Langs" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheus05dev&theme=tokyonight" alt="Top Langs" width="42%" />
 </div>
 
 <p align="center">
