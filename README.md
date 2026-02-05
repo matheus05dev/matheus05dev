@@ -99,8 +99,8 @@ Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus05dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus05dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus05dev&show_icons=true&theme=tokyonight&hide_border=true&cache_buster=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus05dev&layout=compact&theme=tokyonight&hide_border=true&cache_buster=1" alt="Top Langs" width="42%" />
 </div>
 
 <p align="center">
