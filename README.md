@@ -138,6 +138,5 @@ Plataforma para criação de chatbots com **RAG** e arquitetura **multi-tenant**
 ⭐ **Se meus projetos ajudaram, deixe uma estrela!**
 
 </div>
-```
 
 ---
