@@ -1,13 +1,8 @@
 <div align="center">
   <!-- Banner Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Matheus%20Nunes&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Backend%20Heavy%20%7C%20Fullstack%20%7C%20Aspiring%20AI%20Engineer&descSize=20&descAlignY=60&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Matheus%20Nunes&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Heavy%20%7C%20Fullstack%20%7C%20Aspiring%20AI%20Engineer&descSize=20&descAlignY=60&descAlign=50&descColor=00bfff" alt="Header Banner" width="100%" />
 
-  <!-- Avatar Overlap -->
-  <a href="https://github.com/matheus05dev">
-    <img src="https://github.com/matheus05dev.png" width="130" style="border-radius: 20%; border: 4px solid #0d1117; margin-top: -60px; position: relative; z-index: 2;" alt="Matheus Nunes - Avatar" />
-  </a>
-
-  <p align="center" style="margin-top: 20px;">
+  <p align="center" style="margin-top: 15px;">
     <a href="https://linkedin.com/in/matheusnunesdev">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -34,11 +29,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor** em constante formação, com base técnica sólida em **Backend (Java/Spring)** e versatilidade no **Frontend**. Gosto de entender como as coisas funcionam "por baixo do capô", o que me leva a estudar **IoT e Hardware** como um hobby técnico sério.
+Sou um **Desenvolvedor Backend** com forte viés de engenharia e base sólida em **Java & Spring**. Minha trajetória é marcada pela curiosidade de entender como sistemas complexos funcionam "no metal", o que fundamenta meus estudos avançados em **IoT** e **Hardware**.
 
-Meu objetivo de carreira é evoluir para a **Engenharia de IA Aplicada**. Não busco a área acadêmica/pesquisa, mas sim a capacidade de **integrar inteligência artificial** em sistemas reais para resolver problemas de negócio de forma pragmática e eficiente.
+Minha visão de futuro é a **Engenharia de Sistemas Inteligentes**.
+Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**. Quero aplicar o rigor da engenharia de software — performance, escalabilidade e observabilidade — para transformar experimentos de laboratório em **soluções de missão crítica** que geram valor real e contínuo.
 
-> 🚀 **O que trago para o time:** Código limpo e testável, facilidade para transitar entre Backend/Frontend e uma curiosidade técnica que me faz explorar desde microcontroladores até arquiteturas em nuvem.
+> 🚀 **O que me define:** Pragmatismo na arquitetura, código limpo e a capacidade de conectar o mundo do software corporativo (Backend/Cloud) com a inovação da IA e do mundo físico (IoT).
 
 ---
 
@@ -109,3 +105,8 @@ Meu objetivo de carreira é evoluir para a **Engenharia de IA Aplicada**. Não b
   <br>
   <b>– Linus Torvalds</b>
 </p>
+
+<!-- Footer Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Banner" width="100%" />
+</div>
