@@ -31,7 +31,7 @@ public class AboutMe {
 
 ## 💼 Projetos em Destaque
 
-### 🧠 [MindForge](https://github.com/matheus05dev/MindForge) - Plataforma SaaS Multi-Tenant com IA
+### 🧠 *MindForge* - Plataforma SaaS Multi-Tenant com IA
 
 Plataforma para criação de chatbots com **RAG** e arquitetura **multi-tenant**.
 
@@ -50,7 +50,7 @@ Plataforma para criação de chatbots com **RAG** e arquitetura **multi-tenant**
 
 ---
 
-### 🏥 [InfraMed](https://github.com/matheus05dev/InfraMed-Back-End) - Sistema IoT Monitoramento Hospitalar
+### 🏥 *InfraMed* - Sistema IoT Monitoramento Hospitalar
 
 **TCC SENAI nota máxima** - Sistema end-to-end de monitoramento em tempo real.
 
