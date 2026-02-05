@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Banner Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Matheus%20Nunes%20da%20Silva&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20DDD%2C%20Clean%20Arch%2C%20IoT%20%26%20IA&descSize=20&descAlignY=60&descAlign=50&descColor=00bfff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Matheus%20Nunes%20da%20Silva&fontSize=50&fontColor=ffffff" alt="Header Banner" width="100%" />
+
+  <h3>Backend Developer | Java & Spring Boot | DDD, Clean Arch, IoT & IA</h3>
 
   <p align="center" style="margin-top: 15px;">
     <a href="https://www.linkedin.com/in/matheus-nunes-da-silva-ba92b039b/">
@@ -20,6 +22,8 @@
     <img src="https://img.shields.io/badge/Location-São_Roque,_SP-ff5722?style=flat-square&logo=google-maps" alt="Location" />
   </div>
 </div>
+
+
 
 ---
 
@@ -108,5 +112,5 @@ Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,232F3E&height=150&section=footer" alt="Footer Banner" width="100%" />
 </div>
