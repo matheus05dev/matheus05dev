@@ -1,15 +1,15 @@
 <div align="center">
   <!-- Banner Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Matheus%20Nunes&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Heavy%20%7C%20Fullstack%20%7C%20Aspiring%20AI%20Engineer&descSize=20&descAlignY=60&descAlign=50&descColor=00bfff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Matheus%20Nunes%20da%20Silva&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20DDD%2C%20Clean%20Arch%2C%20IoT%20%26%20IA&descSize=20&descAlignY=60&descAlign=50&descColor=00bfff" alt="Header Banner" width="100%" />
 
   <p align="center" style="margin-top: 15px;">
-    <a href="https://linkedin.com/in/matheusnunesdev">
+    <a href="https://www.linkedin.com/in/matheus-nunes-da-silva-ba92b039b/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:contato@matheusnunes.dev">
+    <a href="mailto:matheus05.nunes81@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://matheusnunes.dev">
+    <a href="https://matheusnunes-dev-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Site-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -82,7 +82,7 @@ Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**
 ---
 
 ## 📜 Principais Certificações
-*Para lista completa, visite meu [LinkedIn](https://linkedin.com/in/matheusnunesdev) ou [Portfólio](https://matheusnunes.dev).*
+*Para lista completa, visite meu [LinkedIn](https://www.linkedin.com/in/matheus-nunes-da-silva-ba92b039b/) ou [Portfólio](https://matheusnunes-dev-portfolio.vercel.app/).*
 
 *   ☁️ **AWS** - Cloud Foundations (2023)
 *   ☁️ **Google Cloud** - Set Up an App Dev Environment (2025)
