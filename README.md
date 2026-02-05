@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Matheus%20Nunes%20da%20Silva&fontSize=50&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=336699&height=220&section=header&text=Matheus%20Nunes%20da%20Silva&fontSize=50&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <h3>Backend Developer | Java & Spring Boot | DDD, Clean Arch, IoT & IA</h3>
 
@@ -112,5 +112,5 @@ Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,232F3E&height=150&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=336699&height=120&section=footer" alt="Footer Banner" width="100%" />
 </div>
