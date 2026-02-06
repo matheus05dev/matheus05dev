@@ -93,7 +93,7 @@ Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**
 *   🛡️ **Linux Foundation** - OWASP Top 10 (Secure Coding) (2026)
 *   🔒 **Cisco** - Networking Basics (2026) & Intro to Cybersecurity (2025)
 *   🤖 **SENAI** - Arduino: Fundamentos de IoT (2025)
-*   🎓 **SENAI** - Técnico em Desenvolvimento de Sistemas (2025)
+*   🎓 **SENAI** - Técnico em Desenvolvimento de Sistemas (2024-2025)
 *   🎓 **UNIP** - Ciência da Computação (2026 - 2029)
 
 ---
