@@ -18,7 +18,7 @@
   
   <div style="margin: 20px 0;">
     <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=flat-square&logo=github" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Focus-Backend_&_AI-blueviolet?style=flat-square&logo=openai" alt="Focus AI" />
+    <img src="https://img.shields.io/badge/Focus-Backend_Development-blueviolet?style=flat-square&logo=spring" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-São_Roque,_SP-ff5722?style=flat-square&logo=google-maps" alt="Location" />
   </div>
 </div>
