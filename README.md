@@ -36,7 +36,7 @@
 Sou um **Desenvolvedor Backend** com forte viés de engenharia e base sólida em **Java & Spring**. Minha trajetória é marcada pela curiosidade de entender como sistemas complexos funcionam "no metal", o que fundamenta meus estudos avançados em **IoT** e **Hardware**.
 
 Minha visão de futuro é a **Engenharia de Sistemas Inteligentes**.
-Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**. Quero aplicar o rigor da engenharia de software — performance, escalabilidade e observabilidade — para transformar experimentos de laboratório em **soluções de missão crítica** que geram valor real e contínuo.
+Meu foco não está apenas no modelo de IA, mas na **arquitetura que o suporta**. Quero aplicar o rigor da engenharia de software, performance, escalabilidade e observabilidade, para transformar experimentos de laboratório em **soluções de missão crítica** que geram valor real e contínuo.
 
 > 🚀 **O que me define:** Pragmatismo na arquitetura, código limpo e a capacidade de conectar o mundo do software corporativo (Backend/Cloud) com a inovação da IA e do mundo físico (IoT).
 
