@@ -174,23 +174,15 @@
 
 <div align="center">
   <!-- 3D Isometric Commits History (Gerado via Actions) -->
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Commits history 3D" width="97%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Commits history 3D" width="97%" />
 </div>
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- Languages Donut Chart -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus05dev&layout=donut&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=a3a3a3&ring_color=00FF41" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <!-- Streak Stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus05dev&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=a3a3a3&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=a3a3a3&dates=00FF41" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus05dev&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=a3a3a3&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=a3a3a3&dates=00FF41" width="50%" />
+</div>
 
 ---
 
