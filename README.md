@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Terminal Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=>_++SYSTEM++BOOTING...;>_++MATHEUS++NUNES++DA++SILVA;>_++BACKEND++DEVELOPER;>_++IOT++%26++AI++ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=>_++SYSTEM++BOOTING...;>_++MATHEUS++NUNES++DA++SILVA;>_++BACKEND++DEVELOPER;>_++IOT++%26++AI++ENTHUSIAST" alt="Typing SVG" />
 
   <p align="center" style="margin-top: 10px;">
     <a href="https://www.linkedin.com/in/matheus-nunes-da-silva-ba92b039b/">
