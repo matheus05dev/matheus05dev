@@ -161,7 +161,7 @@
         <img src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00FF41&color=00FF41&labelColor=000" />
         <img src="https://img.shields.io/badge/Engenharia_Teórica-000?style=flat-square&logo=leetcode&logoColor=00FF41&color=00FF41&labelColor=000" />
       </p>
-      <p><b>Repositório Base para Maratonas (ICP, SBC, UVa)</b></p>
+      <p><b>Repositório Base para Maratonas (ICPC, SBC, UVa)</b></p>
       <p>Acervo central de implementações de alta performance para resolução de problemas matemáticos e de algoritmos (como Divisão e Conquista, Grafos, etc). Demonstra meu domínio em complexidade de tempo (Big-O) e Estruturas de Dados exigidos em ambientes competitivos reais.</p>
       <a href="https://github.com/matheus05dev/Programacao-Competitiva"><code>[🔗 Acesso ao Repositório Core]</code></a>
     </td>
